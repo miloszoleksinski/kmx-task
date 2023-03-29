@@ -27,7 +27,9 @@ xxx
 What are your goals as a software engineer?
 
 #### Answer
-xxx
+As a Java Developer and DevOps professional, my main goal is to continue to develop my technical skills and stay up-to-date with the latest trends and technologies in the industry. I want to become proficient in different programming languages, gain expertise in software architecture, design patterns and develop a deep understanding of software development methodologies.
+
+I also aspire to become a great software engineer in all directions. This means that I am committed to not only developing my technical skills but also my soft skills such as communication, collaboration, and leadership. I believe that effective communication and collaboration are essential for working in teams and that leadership skills can help me to take on more significant responsibilities in my career.
 
 ---
 ### Task 4
@@ -35,4 +37,10 @@ xxx
 What is your favourite programming language, and why?
 
 #### Answer
-xxx
+JAVA - I can list few things
+1. Platform independence - Can run my apps on whatever machine with whatever OS, I just need JVM
+2. Rich class libraries - Many libraries/frameworks to solve many problems.
+3. Community - Huge amount of problems that other developers already solved
+4. Garbage collection - Clears space for me so that I'm not going to see StackOverflowException so often
+5. Backwards compatibility - I can run my old Java 8 apps written many years ago on Java 19
+6. I'm already familiar with syntax
