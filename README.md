@@ -19,7 +19,15 @@ After the construction process, you can launch your preferred web browser and ac
 Using the below tables, write an SQL query to bring the department description that has the largest salary costs
 
 #### Answer
-xxx
+```sql
+SELECT km_department.department_description
+FROM km_department d
+JOIN km_person p ON d.department_id = p.department_id
+JOIN km_salaries s ON p.person_id = s.person_id
+GROUP BY d.department_description
+ORDER BY SUM(s.salary) DESC
+FETCH FIRST 1 ROW ONLY;
+```
 
 ---
 ### Task 3
